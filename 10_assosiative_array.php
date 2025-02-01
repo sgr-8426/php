@@ -20,4 +20,5 @@
     foreach ($fruits as $key => $value) {
         echo "<br>key is $key and value is $value";
     }
+
 ?>
